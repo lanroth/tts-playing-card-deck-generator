@@ -24,11 +24,16 @@ create_tts_deck.py card_faces/hubble_space_pictures
 
 From within Tabletop Simulator:
 
-1. Click the Objects button at the top: ![Objects button](doc/objects_button.jpg)
-2. Click components: ![Components button](doc/components.jpg) 
-3. Click Custom: ![Custom button](doc/custom_button.jpg)
-4. Click Deck:![Deck button](doc/deck_button.jpg)
-5. Fill in the dialog:![Custom button dialog](doc/custom_deck_dialog.jpg)
+1. Click the Objects button at the top:  
+   ![Objects button](doc/objects_button.jpg)
+2. Click components:  
+   ![Components button](doc/components.jpg)
+3. Click Custom:  
+   ![Custom button](doc/custom_button.jpg)
+4. Click Deck:  
+   ![Deck button](doc/deck_button.jpg)
+5. Fill in the dialog:  
+   ![Custom button dialog](doc/custom_deck_dialog.jpg)
   - For `Face` browse to the generated image, e.g. `card_deck.png` and upload to `Cloud`.
   - For `Back` browse to an image you'd like for the back of the playing cards and upload to `Cloud`.
   - Click the `IMPORT` button.
