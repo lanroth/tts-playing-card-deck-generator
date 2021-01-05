@@ -11,6 +11,7 @@ the card value (ace of spaces, 5 of diamonds etc).
 
 ```commandline
 git clone https://github.com/lanroth/tts-playing-card-deck-generator.git
+cd tts-playing-card-deck-generator
 pip install -r requirements.txt
 ```
 
