@@ -12,7 +12,7 @@ the card value (ace of spaces, 5 of diamonds etc).
 ```commandline
 git clone https://github.com/lanroth/tts-playing-card-deck-generator.git
 cd tts-playing-card-deck-generator
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Quickstart
@@ -117,7 +117,7 @@ The resulting image is written to [card_deck.png](card_deck.png) by default.
 The result of executing
 
 ```commandline
-./create_tts_deck.py  card_faces/hubble_space_pictures
+./create_tts_deck.py card_faces/hubble_space_pictures
 ```
 
 is: ![card_deck.png](card_deck.png)
