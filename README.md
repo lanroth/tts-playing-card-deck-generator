@@ -71,6 +71,14 @@ optional arguments:
   -d, --debug           print lots of debug output (default: False)
 ```
 
+### Hidden card
+
+Tabletop Simulator uses the card in the bottom right of the card sheet for it's hidden card (see [here](https://kb.tabletopsimulator.com/custom-content/custom-deck/#deck-features)). The `-H` argument allows you to specify an image to use for this.
+
+> to keep the hidden card unique, it's best to place the hidden card in a separate director rather than mix it in with all the other card images 
+
+### Aspect ratio tolerance
+
 The `-a` argument allows you to ignore source images that aren't of a similar aspect ratio to a playing card:
 
 - `-a0`: allow any aspect ratio
