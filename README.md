@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 To recreate the sample [card_deck.png](card_deck.png) deck:
 
 ```commandline
-create_tts_deck.py card_faces/hubble_space_pictures
+python3 create_tts_deck.py card_faces/hubble_space_pictures
 ```
 
 From within Tabletop Simulator:
@@ -117,7 +117,7 @@ The resulting image is written to [card_deck.png](card_deck.png) by default.
 The result of executing
 
 ```commandline
-./create_tts_deck.py card_faces/hubble_space_pictures
+python3 create_tts_deck.py card_faces/hubble_space_pictures
 ```
 
 is: ![card_deck.png](card_deck.png)
